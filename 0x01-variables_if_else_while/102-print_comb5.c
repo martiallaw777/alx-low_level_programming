@@ -16,7 +16,7 @@ int main(void)
 	int d = 0;
 	int n = 0;
 	int i = 1;
-	
+
 	while (n <= 99)
 	{
 		a = n / 10;
