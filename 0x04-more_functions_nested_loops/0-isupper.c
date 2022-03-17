@@ -6,7 +6,10 @@
  * Return: int.
  */
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e1f43cc16ad5a4fd7a131ee74ccc0ed703eed895
 int _isupper(int c)
 
 {
